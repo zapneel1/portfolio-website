@@ -12,7 +12,7 @@
     "@next/font": "^13.1.6",
     "@studio-freight/lenis": "^1.0.22",
     "@vercel/analytics": "^0.1.10",
-    "@vercel/speed-insights": "^1.0.12",
+    "@vercel/speed-insights": "^1.0.13",
     "gsap": "^3.12.2",
     "motion": "^10.15.5",
     "next": "14.0.0",
