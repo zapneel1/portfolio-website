@@ -28,8 +28,7 @@ export default function Header() {
 
           <div className={styles.paraG}>
             <p id="h1BG">
-              Highly skilled at AI/ML, design systems &amp; UI
-              Engineering.
+              Highly skilled at progressive enhancement, design systems, AI/ML & UI Engineering.
             </p>
 
             <p id="h1BG">
