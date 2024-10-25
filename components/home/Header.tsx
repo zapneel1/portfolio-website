@@ -13,28 +13,27 @@ export default function Header() {
         <div className={styles.text}>
           <div className={styles.textI}>
             <div className={styles.gradientText}>
-              <h1>Frontend</h1>
+              <h1>Software</h1>
 
               <h1>
-                Developer<span>.</span>
+                Engineer<span>.</span>
               </h1>
             </div>
 
             <p>
-              I like to craft solid and scalable frontend products with great
+              I like to craft solid and scalable Open-source products with great
               user experiences.
             </p>
           </div>
 
           <div className={styles.paraG}>
             <p id="h1BG">
-              Highly skilled at progressive enhancement, design systems &amp; UI
+              Highly skilled at AI/ML, design systems &amp; UI
               Engineering.
             </p>
 
             <p id="h1BG">
-              Over a two years of experience building products for clients
-              across africa.
+              Over two years of experience in building robust cybersecurity solutions for clients across the globe.
             </p>
           </div>
         </div>
