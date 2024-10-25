@@ -6,14 +6,10 @@ export default function About() {
     <section className={styles.about}>
       <div className={styles.aboutWrapper}>
         <article className={styles.textAbt}>
-          <h1 id="h1BG">Design</h1>
+          <h1 id="h1BG">Cybersecurity</h1>
 
           <p>
-            I design, even though I&apos;m probably not the typical designer
-            sitting in front of an Illustrator artboard tweaking pixels. You can
-            always find me buried in stylesheets, fiddling with font sizes and
-            thinking about layouts (~_^). Creating fluid user experiences is
-            something I&apos;m committed to doing while looking chic.
+            I love tinkering, even though I'm probably not the typical analyst sitting infront of a scanner chasing down threat reports. You can find me buried in open source code, fiddling with scripts and exploiting in my spare time (~_^). Implementing reliable security systems is something I'm committed to doing while looking chic.
           </p>
         </article>
 
