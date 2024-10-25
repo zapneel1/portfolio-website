@@ -33,7 +33,7 @@ export default function Header() {
             </p>
 
             <p id="h1BG">
-              Over two years of experience in building robust cybersecurity solutions for clients across the globe.
+              Over two years of experience in building robust cybersecurity solutions for clients worldwide.
             </p>
           </div>
         </div>
