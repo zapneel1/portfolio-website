@@ -13,7 +13,7 @@ export default function Footer() {
 
           <ul>
             <li>
-              <a href="mailto:kehindephilip15@gmail.com">hi@pariola.dev</a>
+              <a href="mailto:swapneellayek@kgpian.iitkgp.ac.in">hi@swapneellayek.netlify</a>
             </li>
             <li>
               <a
@@ -21,7 +21,7 @@ export default function Footer() {
                 target="_blanket"
                 rel="noopener"
               >
-                blog.pariola.dev
+                blog.swapneellayek.netlify
               </a>
             </li>
           </ul>
@@ -34,7 +34,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://github.com/pariola-droid"
+                href="https://github.com/zapneel1"
                 target="_blanket"
                 rel="noopener"
               >
@@ -65,7 +65,7 @@ export default function Footer() {
           </li>
           <li>
             <a
-              href="https://github.com/pariola-droid"
+              href="https://github.com/zapneel1"
               target="_blanket"
               rel="noopener"
             >
@@ -74,7 +74,7 @@ export default function Footer() {
           </li>
           <li>
             <a
-              href="https://www.linkedin.com/in/omopariola-philip-6aa038178/"
+              href="https://www.linkedin.com/in/swapneel-layek/"
               target="_blanket"
               rel="noopener"
             >
@@ -83,7 +83,7 @@ export default function Footer() {
           </li>
           <li>
             <a
-              href="https://instagram.com/hi5crt"
+              href="https://instagram.com/thvibezon"
               target="_blanket"
               rel="noopener"
             >
