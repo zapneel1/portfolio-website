@@ -16,7 +16,7 @@ export default function Caption() {
             <p>
               Open source
               <br />
-              projects, web apps
+              projects, hacking tools
               <br />
               and experimentals.
             </p>
@@ -37,9 +37,9 @@ export default function Caption() {
             </h1>
 
             <p>
-              About design,
+              About interests,
               <br />
-              frontend dev,
+              cybersec projects,
               <br />
               learning and life.
             </p>
@@ -51,7 +51,7 @@ export default function Caption() {
             rel="noopener noreferrer"
             className={styles.aCapture}
           >
-            read my articles
+            digital diary
             <span></span>
           </a>
         </div>
