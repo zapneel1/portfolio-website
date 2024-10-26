@@ -9,7 +9,7 @@ export default function About() {
           <h1 id="h1BG">Cybersecurity</h1>
 
           <p>
-            I love tinkering, even though I&apos;m probably not the typical analyst sitting infront of a scanner chasing down threat reports. You can find me buried in open source code, fiddling with scripts and exploiting in my spare time (~_^). Implementing reliable security systems is something I&apos;m committed to doing while looking chic.
+            I love tinkering, even though I&apos;m probably not devoted full-time like a professional, i do it for fun. You can find me buried in open source code, fiddling with scripts and exploiting in my spare time (~_^). Implementing reliable security systems is something I&apos;m committed to doing while looking chic.
           </p>
         </article>
 
