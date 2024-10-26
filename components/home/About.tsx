@@ -17,10 +17,7 @@ export default function About() {
           <h1 id="h1BG">Engineering</h1>
 
           <p>
-            I have the ideal tools for developing JavaScript applications, and I
-            can definitely work without them to produce quick, durable solutions
-            that are designed for growth &#8211; performance and scalability are
-            top objectives on my radar.
+            I have the ideal tools for developing JavaScript/Python applications, and I can definitely use alternative tools to produce quick, durable solutions while integrating AI/ML into systems designed for growth. Performance and scalability are top objectives on my radar.
           </p>
         </article>
       </div>
