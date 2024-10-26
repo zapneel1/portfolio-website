@@ -14,19 +14,11 @@ export default function Experience() {
           <p>(~_^)</p>
 
           <p>
-            I&apos;ve built products for companies and individuals around africa
-            ranging from marketing websites to complex solutions and enterprise
-            apps with focus on fast, elegant and accessible user experiences.
-            Currently, I work at <a href="https://diool.com">Diool</a> as a
-            frontend engineer in the growth team.
+            I&apos;ve built products for companies and individuals around the globe ranging from marketing websites to complex solutions and enterprise apps with focus on fast, elegant and accessible user experiences. Currently, I&apos;m studying at <a href="https://www.iitkgp.ac.in">IIT Kharagpur</a> as a Btech UG in my prefinal year.
           </p>
 
           <p>
-            Before now, I worked as the Founding Frontend Engineer at{' '}
-            <a href="https://tryklas.com">Klas</a>, crafting thoughtful and
-            inclusive experiences that adhere to web standards. Prior to Klas, I
-            was a front engineer contractor with Regnify and Haxell, building
-            digital products that users love
+            Before now, I worked as the Software Developer at Two Sites, crafting thoughtful and inclusive experiences that adhere to web standards. Prior to that, I have been a part time Bug bounty hunter at <a href= "https://www.hackerone.com">Hackerone</a> and <a href= "https://www.bugcrowd.com">Bugcrowd</a>, reporting vulnerabilities and issuing patches to clients worldwide.
           </p>
         </article>
       </div>
