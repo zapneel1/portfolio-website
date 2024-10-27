@@ -18,7 +18,7 @@ export default function Experience() {
           </p>
 
           <p>
-            Before now, I worked as a cs intern at Tradebot, crafting thoughtful and inclusive experiences that adhere to web standards. Prior to that, I have been a part time Bug bounty hunter at <a href= "https://www.hackerone.com">Hackerone</a> and <a href= "https://www.bugcrowd.com">Bugcrowd</a>, reporting vulnerabilities and issuing patches to clients worldwide.
+            Before now, I worked as a CS intern at Tradebot, assisting in the development of trading systems while gaining hands-on experience in industry standards. Prior to that, I have been a part time Bug bounty hunter at <a href= "https://www.hackerone.com">Hackerone</a> and <a href= "https://www.bugcrowd.com">Bugcrowd</a>, reporting vulnerabilities and issuing patches to clients worldwide.
           </p>
         </article>
       </div>
