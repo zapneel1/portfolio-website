@@ -51,7 +51,7 @@ export default function Footer() {
       </div>
 
       <div className={styles.footBase}>
-        <small>&copy; Omopariola Philip {year}</small>
+        <small>&copy; Swapneel Layek {year}</small>
 
         <ul>
           <li>
