@@ -56,15 +56,6 @@ export default function Footer() {
         <ul>
           <li>
             <a
-              href="https://twitter.com/ipariola"
-              target="_blanket"
-              rel="noopener"
-            >
-              tw
-            </a>
-          </li>
-          <li>
-            <a
               href="https://github.com/zapneel1"
               target="_blanket"
               rel="noopener"
