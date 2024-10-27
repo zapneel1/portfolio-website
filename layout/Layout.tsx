@@ -73,7 +73,7 @@ export default function Layout(props: ILayoutProps) {
           rel="icon"
           type="image/svg+xml"
           sizes="32x32"
-          href="/favicon.svg"
+          href="/32x32.svg"
         />
       </Head>
 
