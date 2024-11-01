@@ -14,7 +14,7 @@ const createSitemap = (slugs) => `<?xml version="1.0" encoding="UTF-8"?>
 
 export async function getServerSideProps({ res }) {
   // Replace this array with the actual slugs of your pages
-  const allPages = ['']; // Add slugs for your pages, e.g., ['about', 'contact']
+  const allPages = ['', 'about', 'contact', 'experience', 'projects'];
 
   res.setHeader('Content-Type', 'text/xml');
   res.setHeader('Cache-Control', 'public, s-maxage=1200, stale-while-revalidate=600');
