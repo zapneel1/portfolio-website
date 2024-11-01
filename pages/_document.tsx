@@ -39,7 +39,7 @@ export default class MyDocument extends Document {
           <meta name="yandex-verification" content="513eaa5344e9eec7" />
           <meta
             name="google-site-verification"
-            content="d2dh6ucdTbrNyzWRMIIUXh6wV7kZ-d_rIuK2GJs4ymI"
+            content="Fh-a5Ud6Km37K5O1XC5I9DVJFAuNHTsYKprT8jNBkeg"
           />
           <meta
             content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"
