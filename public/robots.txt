@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://pariola.dev/sitemap.xml
+Sitemap: https://swapneellayek.netlify.app/sitemap.xml
