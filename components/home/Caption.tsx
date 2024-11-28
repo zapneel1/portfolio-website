@@ -46,7 +46,7 @@ export default function Caption() {
           </article>
 
           <a
-            href="https://blog.pariola.dev"
+            href="https://github.com/zapneel1"
             target="_blank"
             rel="noopener noreferrer"
             className={styles.aCapture}
