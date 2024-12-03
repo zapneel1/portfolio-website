@@ -17,7 +17,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://blog.pariola.dev"
+                href=""
                 target="_blanket"
                 rel="noopener"
               >
