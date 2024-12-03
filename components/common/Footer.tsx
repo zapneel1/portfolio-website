@@ -13,7 +13,7 @@ export default function Footer() {
 
           <ul>
             <li>
-              <a href="mailto:swapneellayek@kgpian.iitkgp.ac.in">hi@swapneellayek.netlify</a>
+              <a href="mailto:swapneellayek@kgpian.iitkgp.ac.in">hi@swapneel</a>
             </li>
             <li>
               <a
@@ -21,7 +21,7 @@ export default function Footer() {
                 target="_blanket"
                 rel="noopener"
               >
-                blog.swapneellayek.netlify
+                blog.swapneel
               </a>
             </li>
           </ul>
